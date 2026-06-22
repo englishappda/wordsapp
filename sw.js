@@ -1,8 +1,8 @@
-const CACHE_NAME = 'tango-app-v1';
+const CACHE_NAME = 'tango-app-v2';
 const ASSETS = [
-  '/tango-app/',
-  '/tango-app/index.html',
-  '/tango-app/manifest.json'
+  '/wordsapp/',
+  '/wordsapp/index.html',
+  '/wordsapp/manifest.json'
 ];
 
 self.addEventListener('install', e => {
